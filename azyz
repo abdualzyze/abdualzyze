@@ -1,0 +1,20 @@
+اداه TxTool
+
+هي أداه تقوم بفحص الmنافذ في الشبكه والتخmين على كلmه mرور admin الشبكه لاختبار امانها والكثير مايميز الأداه هي سهولتها وواجهتها الرسومية
+
+
+
+
+تثبيتها:
+
+$ git clone https://github.com/kuburan/txtool.git
+
+$ cd txtool
+
+$ apt install python2
+
+$ ./install.py
+
+تشغيلها:
+
+$ txtool
